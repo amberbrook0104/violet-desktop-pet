@@ -1,0 +1,6 @@
+{
+  "repair_rows": [],
+  "reviewed_at": "2026-10-16T11:12:52.5662847Z",
+  "visual_qa": "pass",
+  "qa_note": "All 57 frames reviewed; stable scale and jump arc, consistent identity, correct nine-state semantics, no clipping or harmful color loss."
+}

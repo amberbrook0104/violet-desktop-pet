@@ -1,0 +1,72 @@
+{
+  "id": "violet-evergarden",
+  "displayName": "薇尔莉特",
+  "description": "Q版薇尔莉特·伊芙加登，安静温柔的桌面陪伴。",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "calm resting, breathing, and blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward drag movement loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward drag movement loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting or attention gesture"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "hover or playful jump"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "blocked, failed, or cancelled reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "waiting for approval, help, or user input"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "active task work or processing"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "ready or completed output review"
+    }
+  ],
+  "pet_notes": "Violet Evergarden from the anime Violet Evergarden; chibi full-body petite human girl; golden blonde braided crown hair with a small low braided bun and two short face-framing strands, sapphire blue eyes, cropped Prussian-blue Victorian jacket, ivory white long ruffled dress with a compact skirt silhouette, emerald green oval throat brooch in gold mount and white jabot, brown ankle boots, both silver articulated mechanical hands visible; calm gentle expression; no weapons, no bag, no additional props.",
+  "style_preset": "sticker",
+  "style_notes": "Elegant anime chibi illustration, two-and-a-half-head proportions, soft cel shading, delicate warm outlines, crisp silhouette, large expressive blue eyes, readable simple costume details. No white sticker border. Preserve signature hairstyle and dress, no floating ribbons or detached effects."
+}

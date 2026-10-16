@@ -1,0 +1,16 @@
+# Local pet position and error logs
+**/settings.json
+**/pet-error.log
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
