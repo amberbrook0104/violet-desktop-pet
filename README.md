@@ -1,5 +1,7 @@
 # 薇尔莉特 · 桌面陪伴
 
+简体中文 | [English](README.en.md)
+
 《紫罗兰永恒花园》薇尔莉特·伊芙加登的 Q 版动画小宠物，提供 Windows 桌面版和 Codex 自定义宠物包。
 
 ![薇尔莉特挥手](qa/previews/waving.gif)
